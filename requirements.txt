@@ -1,0 +1,8 @@
+pandas
+numpy
+pyarrow
+prophet
+scikit-learn
+matplotlib
+seaborn
+python-pptx
